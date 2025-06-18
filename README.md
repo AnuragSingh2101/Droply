@@ -20,7 +20,7 @@ A simple file storage application built with Next.js, Clerk, Neon, Drizzle, and 
 ## UI
 ![landingpage](./public/landingpage.png)
 ![signup](./public/signup.png)
-![signin](./public/sihnin.png)
+![signin](./public/signin.png)
 ![home](./public/home.png)
 
 ## Getting Started
